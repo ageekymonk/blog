@@ -1,4 +1,4 @@
-baseurl = "http://hugo.spf13.com/"
+baseurl = "http://www.decodewith.me/"
 languageCode = "en-us"
 title = "My Life, My Code"
 theme = "hugo-future-imperfect"
@@ -67,14 +67,14 @@ googleAnalytics = ""
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
-    name = "Blog"
-    url = "/blog"
+    name = "Tools"
+    url = "/tools"
     identifier = "fa fa-newspaper-o"
     weight = 1
 
 [[menu.main]]
-    name = "Categories"
-    url = "/categories"
+    name = "Snippets"
+    url = "/snippets"
     weight = 2
 
 [[menu.main]]
@@ -99,7 +99,7 @@ googleAnalytics = ""
     youtube         = ""
     vimeo           = ""
     vine            = ""
-    medium          = ""
+    medium          = "ageekymonk"
     wordpress       = ""
     tumblr          = ""
     xing            = ""
